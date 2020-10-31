@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.AuthText {
+    font-weight: 500;
+    font-family: 'Roboto';
+    margin-bottom: 10px;
+}
+
+.button {
+    margin: 10px 0 !important;
+}
+
+.button_text {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.warning {
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Roboto';
+    color: red;
+}

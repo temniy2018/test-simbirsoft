@@ -1,0 +1,16 @@
+{
+    "auth": [ 
+        {
+            "login": "r_zaycev",
+            "password": "roman"
+        },   
+        {
+            "login": "admin",
+            "password": "admin"
+        },  
+        {
+            "login": "123",
+            "password": "123"
+        }
+    ]  
+}
